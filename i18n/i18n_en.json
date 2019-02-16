@@ -1,0 +1,21 @@
+{
+  "COMMANDE_EXECUTE_ERROR" : "there was an error trying to execute that command!",
+  "SPECIFY_ACTIVITY": "Please, specify an activity.",
+  "SPECIFY_QUESTION": "Please, specify a question.",
+  "SPECIFY_LOCALE": "Please, specify a locale.",
+  "SERVER_INFO": "Server info",
+  "INFO_ABOUT": "Informations about: ",
+  "CREATION_DATE": "Creation date",
+  "MEMBERS": "Members",
+  "OWNER": "Owner",
+  "REGION": "Region",
+  "ROLES": "Roles",
+  "SPECIFY_MESSAGE_AMOUNT": "Please specify an amount of message to delete. (1 to 99)",
+  "HEADS": "You flipped heads",
+  "TAILS": "You flipped tails",
+  "COMMAND_ENABLED": "Command enabled: ",
+  "COMMAND_DISABLED": "Command disabled: ",
+  "COMMAND_NOT_AVAILABLE": "This command is not available for : ",
+  "SFW_CHANNEL_WARNING": "This command does not work in a safe for work channel.",
+  "ACCOUNT_ALREADY_EXIST": "You are already registered."
+}

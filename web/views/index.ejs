@@ -1,0 +1,39 @@
+<%- include("header") -%>
+
+<section class="wrapper">
+  <main class="row title">
+    <ul>
+      <li>Command</li>
+      <li>Arguments</li>
+      <li>Permissions</li>
+      <li>Tag</li>
+      <li>Type</li>
+    </ul>
+  </main>
+  <% for(let i = 0; i < commandsList.length; i++) {%>
+  <article class="row pga">
+    <ul>
+      <li><a href="#">
+          <%= commandsList[i].name %></a><span class="small"></span></li>
+      <li>
+        <%= commandsList[i].args %>
+      </li>
+      <li>
+        <%= commandsList[i].permissions %>
+      </li>
+      <li>
+        <%= commandsList[i].tag %>
+      </li>
+      <li>
+        <%= commandsList[i].type %>
+      </li>
+    </ul>
+    <ul class="more-content">
+      <li>
+        <%= commandsList[i].desc %>
+      </li>
+    </ul>
+  </article>
+  <% } %>
+</section>
+<%- include("footer") -%>

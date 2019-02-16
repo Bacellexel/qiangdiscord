@@ -1,0 +1,21 @@
+{
+  "COMMANDE_EXECUTE_ERROR" : "¡Hubo un error al intentar ejecutar ese comando!",
+  "SPECIFY_ACTIVITY": "Por favor, especifique una actividad.",
+  "SPECIFY_QUESTION": "Por favor, especifique una pregunta.",
+  "SPECIFY_LOCALE": "Por favor, especifique un lugar",
+  "SERVER_INFO": "Información del servidor",
+  "INFO_ABOUT": "Informaciones sobre: ",
+  "CREATION_DATE": "Fecha de creación",
+  "MEMBERS": "Miembros",
+  "OWNER": "Propietario",
+  "REGION": "Región",
+  "ROLES": "Roles",
+  "SPECIFY_MESSAGE_AMOUNT": "Por favor, especifique una cantidad de mensaje para eliminar. (1 a 99)",
+  "HEADS": "Volteaste las cabezas",
+  "TAILS": "Volteaste las colas",
+  "COMMAND_ENABLED": "Comando habilitado: ",
+  "COMMAND_DISABLED": "Comando desactivado: ",
+  "COMMAND_NOT_AVAILABLE": "Este comando no está disponible para : ",
+  "SFW_CHANNEL_WARNING": "Este comando no funciona en un canal seguro para el trabajo.",
+  "ACCOUNT_ALREADY_EXIST": "Ya está registrado."
+}

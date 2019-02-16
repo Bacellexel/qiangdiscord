@@ -1,0 +1,21 @@
+{
+  "COMMANDE_EXECUTE_ERROR" : "une erreure est survenue pendant l'exécution de cette commande!",
+  "SPECIFY_ACTIVITY": "Veuillez spécifier une activitée.",
+  "SPECIFY_QUESTION": "Veuillez spécifier une question.",
+  "SPECIFY_LOCALE": "Veuillez spécifier la locale.",
+  "SERVER_INFO": "Informations du serveur",
+  "INFO_ABOUT": "Informations à propos de: ",
+  "CREATION_DATE": "Date de création",
+  "MEMBERS": "Membres",
+  "OWNER": "Propriétaire",
+  "REGION": "Région",
+  "ROLES": "Rôles",
+  "SPECIFY_MESSAGE_AMOUNT": "Veuillez spécifier une quantitée de messages à supprimer (1 à 99)",
+  "HEADS": "Vous avez obtenu face",
+  "TAILS": "Vous avez obtenu pile",
+  "COMMAND_ENABLED": "Commande activée: ",
+  "COMMAND_DISABLED": "Commande désactivée: ",
+  "COMMAND_NOT_AVAILABLE": "Cette commande n'est pas disponible pour : ",
+  "SFW_CHANNEL_WARNING": "Cette commande ne peut être executée dans un channel SFW",
+  "ACCOUNT_ALREADY_EXIST": "Vous êtes déjà enregistré."
+}

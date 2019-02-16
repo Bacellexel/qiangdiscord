@@ -1,0 +1,19 @@
+{
+  "name": "qiangdiscord",
+  "version": "1.0.0",
+  "description": "All-in-one discord bot made with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastien B.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "discord.js": "^11.4.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "self-reload-json": "^0.4.0"
+  }
+}

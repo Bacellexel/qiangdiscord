@@ -1,0 +1,137 @@
+[{
+    "name": "8ball",
+    "args": "question",
+    "permissions": "None",
+    "tag": "8ball",
+    "type": "Command",
+    "desc": "Ask your dear Qiang some yer/no questions!"
+  },
+  {
+    "name": "advice",
+    "args": "None",
+    "permissions": "None",
+    "tag": "advice",
+    "type": "Command",
+    "desc": "Let Qiang give you some of the best advices."
+  },
+  {
+    "name": "cmd",
+    "args": "(en/dis)able, tag",
+    "permissions": "ADMINISTRATOR",
+    "tag": "None",
+    "type": "Command",
+    "desc": "Allow administrators to turn on and off features and commands on-demand, at any time."
+  },
+  {
+    "name": "register",
+    "args": "None",
+    "permissions": "None",
+    "tag": "createuser",
+    "type": "Command",
+    "desc": "Create yourself an account to be able to level up and gain coins."
+  },
+  {
+    "name": "flip",
+    "args": "None",
+    "permissions": "None",
+    "tag": "flip",
+    "type": "Command",
+    "desc": "Heads or tails?"
+  },
+  {
+    "name": "user",
+    "args": "username",
+    "permissions": "None",
+    "tag": "getuser",
+    "type": "Command",
+    "desc": "Fetch user's profile and return juicy data about him/her."
+  },
+  {
+    "name": "top",
+    "args": "None",
+    "permissions": "None",
+    "tag": "leaderboard",
+    "type": "Command",
+    "desc": "Show your activity to everyone! Display the top users, sorted by EXP."
+  },
+  {
+    "name": "4k",
+    "args": "None",
+    "permissions": "NSFW_CHANNEL",
+    "tag": "nsfw4k",
+    "type": "Command",
+    "desc": "Post a 4k NSFW image."
+  },
+  {
+    "name": "anal",
+    "args": "None",
+    "permissions": "NSFW_CHANNEL",
+    "tag": "nsfwanal",
+    "type": "Command",
+    "desc": "Post an anal scene image."
+  },
+  {
+    "name": "nsfwgif",
+    "args": "None",
+    "permissions": "NSFW_CHANNEL",
+    "tag": "nsfwporngifs",
+    "type": "Command",
+    "desc": "Post a NSFW gif."
+  },
+  {
+    "name": "prune",
+    "args": "amount",
+    "permissions": "MANAGE_MESSAGES",
+    "tag": "prune",
+    "type": "Command",
+    "desc": "Delete the specified amount of messages in the channel."
+  },
+  {
+    "name": "serverinfo",
+    "args": "None",
+    "permissions": "None",
+    "tag": "serverinfo",
+    "type": "Command",
+    "desc": "Fetch guild's data and return juicy data about it!"
+  },
+  {
+    "name": "addcoin",
+    "args": "name, amount",
+    "permissions": "ADMINISTRATOR",
+    "tag": "setcurrency",
+    "type": "Command",
+    "desc": "Add the specified amount of coins to the specified user."
+  },
+  {
+    "name": "activity",
+    "args": "game, state",
+    "permissions": "ADMINISTRATOR",
+    "tag": "setgame",
+    "type": "Command",
+    "desc": "Set the bot activity."
+  },
+  {
+    "name": "xkcd",
+    "args": "None",
+    "permissions": "None",
+    "tag": "xkcd",
+    "type": "Command",
+    "desc": "Post a random XKCD comic."
+  },
+  {
+    "name": "levelup",
+    "args": "None",
+    "permissions": "None",
+    "tag": "levelup",
+    "type": "Feature",
+    "desc": "Activate or desactivate the leveling system."
+  },
+  {
+    "name": "levelreward",
+    "args": "None",
+    "permissions": "None",
+    "tag": "levelreward",
+    "type": "Feature",
+    "desc": "Activate or desactivate the leveling reward system."
+  }
+]
